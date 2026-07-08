@@ -18,8 +18,6 @@ This ArcGIS toolbox allows for raw images from an
 - How to run the program
 - Step-by-step bullets
 
-## Help
-
 
 ## Authors
 - Liliana McClain (lilianamcclain@gmail.com)
@@ -30,4 +28,4 @@ This ArcGIS toolbox allows for raw images from an
 
 This projects scripts were built with the assistance of Claude, an AI assistant developed by Anthropic.
 
-_Last updated: YYYY-MM-DD_
+_Last updated: 2026-07-07_
