@@ -15,9 +15,17 @@ This ArcGIS toolbox allows for raw images from an RTK DJI drone flight to be dir
 - Any modifications needed to be made to files/folders
 
 ### Executing Program
-- How to run the program
-- Step-by-step bullets
+1. Separate raw jpg images into their own folder. If Elevation Optimization was selected, exclude ending oblique images from the folder. 
+2. Launch ArcGIS Pro. In Catalog --> Toolboxes, upload the DroneTools.atbx tool.
+3. Run the DirectGeoreferencing script.
 
+   
+     a. Select folder input, navigate to raw jpg folder.
+
+
+    b. Set takeoff-above-water offset (default 0; positive if you launched from a dock or a bank above the lake).
+
+### Post Processing
 
 ## Authors
 - Liliana McClain (lilianamcclain@gmail.com)
