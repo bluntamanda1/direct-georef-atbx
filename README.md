@@ -8,9 +8,17 @@ This ArcGIS toolbox allows for raw images from an RTK DJI drone flight to be dir
 
 
    This repository contains:
+
+   
    DroneTools.atbx: ArcGIS Pro toolbox
+
+   
    DroneTools.py: script used for running toolbox 
+
+   
    LICENSE: code released under the MIT license 
+
+   
    README.md: comprehensive description of GitHub software project
 
 ## Getting Started
