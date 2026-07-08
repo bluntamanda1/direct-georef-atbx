@@ -9,7 +9,7 @@ This ArcGIS toolbox allows for raw images from an RTK DJI drone flight and outpu
 
 ## Getting Started
 ### Dependencies
-- Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+- This script was developed and tested using ArcGIS Pro 3.5. Earlier or newer versions of ArcGIS Pro that support .atbx toolbox files may also work, but compatibility has not been tested.
 
 ### Installing
 - How/where to download your program
