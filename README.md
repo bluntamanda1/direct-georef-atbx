@@ -4,7 +4,8 @@ direct-georef-atbx
 
 ## Overview
 
-This ArcGIS toolbox allows for raw images from an 
+This ArcGIS toolbox allows for raw images from an RTK DJI drone flight and outputs a georeferenced .png, blah, and blah for each image employing employing onboard GPS and IMU metadata to project each image to its geographic position. Further post processing steps can then be completed in ArcGIS Pro to create a single mosaicked .tiff file. 
+
 
 ## Getting Started
 ### Dependencies
